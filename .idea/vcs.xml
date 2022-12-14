@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bridge-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bulls-launchpad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/marketplace-rpgc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oldrpgc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rpgc-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/usdv-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/usdv-landing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/venom-bridge-refactoring" vcs="Git" />
+  </component>
+</project>
