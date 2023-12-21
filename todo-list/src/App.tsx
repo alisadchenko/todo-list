@@ -1,10 +1,12 @@
 import "./App.scss"
+import { GreetingCard, Header } from "./components"
 
 function App() {
   return (
-    <div>
-      Hello
-    </div>
+    <>
+      <Header />
+      <GreetingCard />
+    </>
   )
 }
 

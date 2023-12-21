@@ -18,7 +18,7 @@ const interpolateFileData = (fileData, chunk = false) => {
 
 const config = {
   stats: "minimal",
-  entry: "./src/index.tsx",
+  entry: "./src/TransactionSuccessfulIcon.tsx",
 
   output: {
     path: path.resolve(__dirname, "dist"),
@@ -56,7 +56,7 @@ const config = {
       process: "process/browser",
       React: "react"
     }),
-    new HtmlWebpackPlugin({ template: "index.html" }),
+    new HtmlWebpackPlugin({ template: "index.page.tsx.ts.html" }),
     new MiniCssExtractPlugin(),
     new CopyPlugin({
       patterns: [

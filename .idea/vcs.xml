@@ -2,13 +2,27 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bridge-front" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bulls-launchpad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/alex-villas-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amzonite-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/amzonite-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crypto-acquiring-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crypto-acquiring-hawex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crypto-acquiring-payment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crypto-admin-back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend-application-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/licence-manager-bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/license-bot-admin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/marketplace-rpgc" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/oldrpgc" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rpgc-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/raisev-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/raisev-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/raisev-front-prod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/raysx-old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rayz-3-landing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rayz-3-widget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-list" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/usdv-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/usdv-front-react" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/usdv-landing" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/venom-bridge-refactoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/usdv-landing-react" vcs="Git" />
   </component>
 </project>
